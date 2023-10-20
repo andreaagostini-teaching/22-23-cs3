@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import os
 import aa_soundfile as sf
 
@@ -14,4 +15,7 @@ for f in files:
         sf.write(soft, n + '.aif', sr)
 
 
+=======
+print("ciao")
+>>>>>>> 168367cfec57b47d45996d69a9e14be2fd1d3e3e
 
